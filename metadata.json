@@ -1,0 +1,6 @@
+{
+  "name": "PageMark",
+  "description": "Turn photos of handwritten notes on any paper into structured, Obsidian-ready Markdown with smart symbol detection, filing codes, and perspective correction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
